@@ -8,3 +8,4 @@ Tasks
 - [x] 06/11 - Don't Repeat Yourself (75 points)
 - [x] 07/11 - Choices (50 points)
 - [ ] 08/11 - GaaS (75 points)
+- [x] 08/11 - Secure (50 points)
